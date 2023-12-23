@@ -4,15 +4,15 @@ export default navbar([
   "/",
   "/demo/",
   {
-    text: "指南",
+    text: "C = C + 1",
     icon: "lightbulb",
     prefix: "/guide/",
     children: [
       {
-        text: "Bar",
+        text: "控制结构",
         icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        prefix: "foundation/",
+        children: ["control", { text: "...", icon: "ellipsis", link: "" }],
       },
       {
         text: "Foo",
