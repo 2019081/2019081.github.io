@@ -1,13 +1,13 @@
 ---
-title: Bar 功能
+title: 控制结构
 icon: lightbulb
 ---
 
 ## 介绍
 
-我们支持 bar 功能，...
+我们支持 for 循环
 
 ## 详情
 
-- [baz](baz.md)
+- [Control](control.md)
 - ...

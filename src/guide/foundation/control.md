@@ -3,6 +3,7 @@ title: 控制结构
 icon: circle-info
 ---
 
+## 2023/12/23
 - 求 1 ～ 9 中不是 3 的倍数的所有数字之和
 ```C++
 #include <iostream>
@@ -21,3 +22,4 @@ int main() {
     return 0;
 }
 ```
+![Execution](/assets/cplusplus/for-sum-3.jpg)
