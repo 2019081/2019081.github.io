@@ -23,3 +23,30 @@ int main() {
 }
 ```
 ![Execution](/assets/cplusplus/for-sum-3.jpg)
+
+- 数字趋势
+```C++
+#include <iostream>
+
+int main() {
+    int n = 0;
+
+    std::cin >> n;
+
+    for (int i = 0; i < 10; i++) {
+        if (n == 1) {
+            break;
+        }
+
+        if ((n % 2) == 0) {
+            n /= 2;
+        } else {
+            n += 1;
+        }
+    }
+
+    std::cout << n << std::endl;
+
+    return 0;
+}
+```
