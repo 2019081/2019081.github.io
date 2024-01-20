@@ -7,15 +7,15 @@ export default hopeTheme({
 
   author: {
     name: "Sunflower",
-    url: "https://mister-hope.com",
+    url: "https://github.com/2019081",
   },
 
   iconAssets: "fontawesome-with-brands",
   darkmode: "disable",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/2019081/2019081.github.io",
 
   docsDir: "src",
 
