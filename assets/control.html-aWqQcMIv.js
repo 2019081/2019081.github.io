@@ -1,4 +1,4 @@
-import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as i,c as e,e as l}from"./app-eaujfcjq.js";const s="/assets/cplusplus/for-sum-3.jpg",d="/assets/cplusplus/sum-of-two-loop.jpg",t="/assets/cplusplus/sum-of-two.jpg",r={},v=l(`<h2 id="_2023-12-23" tabindex="-1"><a class="header-anchor" href="#_2023-12-23" aria-hidden="true">#</a> 2023/12/23</h2><ul><li>求 1 ～ 9 中不是 3 的倍数的所有数字之和</li></ul><div class="language-C++ line-numbers-mode" data-ext="C++"><pre class="language-C++"><code>#include &lt;iostream&gt;
+import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as i,c as e,e as l}from"./app-eVWFgXHx.js";const s="/assets/cplusplus/for-sum-3.jpg",d="/assets/cplusplus/sum-of-two-loop.jpg",t="/assets/cplusplus/sum-of-two.jpg",r={},v=l(`<h2 id="_2023-12-23" tabindex="-1"><a class="header-anchor" href="#_2023-12-23" aria-hidden="true">#</a> 2023/12/23</h2><ul><li>求 1 ～ 9 中不是 3 的倍数的所有数字之和</li></ul><div class="language-C++ line-numbers-mode" data-ext="C++"><pre class="language-C++"><code>#include &lt;iostream&gt;
 
 int main() {
     int sum = 0;
